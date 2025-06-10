@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋, I'm Amulya.S
 
 🚀 An Enthusiast Programmer | 🌱 AI/ML | 💻 Web Developer
