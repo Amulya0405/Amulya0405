@@ -8,13 +8,15 @@
 
 ### 🙋‍♀️ About Me
 
-- 🎓 Pursuing **BCA in Data Science** (Final Year) at **CMR University, Bangalore** *(2023–2026)*
-- 🔬 Working on **AI, Machine Learning, and Data Science projects**
-- 🌱 Learning & exploring: **Python, ML, Data Analysis, React, Node.js, SQL**
-- 🛠️ Love building: **Web Apps, Dashboards, ML Models, and Finance Tools**
-- 🏅 Certified in **Oracle Cloud Infrastructure AI Foundations**
-- 📬 Reach me at: **your-email@example.com**
-- 🔗 Connect: [LinkedIn](https://linkedin.com) &nbsp;|&nbsp; [Instagram](https://instagram.com)
+Here's your updated profile info:
+
+* 🎓 Pursuing BCA in Data Science (Final Year) at CMR University, Bangalore (2023–2026)
+* 🔬 Working on AI, Machine Learning, and Data Science projects
+* 🌱 Learning & exploring: Python, ML, Data Analysis, React, Node.js, SQL
+* 🛠️ Love building: Web Apps, Dashboards, ML Models, and Finance Tools
+* 🏅 Certified in Oracle Cloud Infrastructure AI Foundations
+* 📬 Reach me at: [amulyasomashekar64@gmail.com](mailto:amulyasomashekar64@gmail.com)
+* 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/amulya04) | [Instagram](https://www.instagram.com/amulya.s_04)
 
 ---
 
