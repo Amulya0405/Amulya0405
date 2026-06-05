@@ -17,7 +17,7 @@ Here's your updated profile info:
 * 🏅 Certified in Oracle Cloud Infrastructure AI Foundations
 * 📬 Reach me at: [amulyasomashekar64@gmail.com](mailto:amulyasomashekar64@gmail.com)
 * 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/amulya04) | [Instagram](https://www.instagram.com/amulya.s_04)
-
+* 🚀 Visit me : amulya0405.github.io
 ---
 
 ### 🛠️ Tech Stack & Expertise
